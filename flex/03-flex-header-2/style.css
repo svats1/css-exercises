@@ -64,3 +64,17 @@ ul {
   gap: 16px;
   padding: 0;
 }
+
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
